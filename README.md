@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Tiago:P
 
 - 🌱 Estudando: Python/JS 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
+- Entre em contato comigo:) :tiagosantosbragat@gmail.com
+- <scri<script>pt></script>
 
 <div>
   <a href="https://github.com/tiago-py">
