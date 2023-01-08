@@ -2,7 +2,7 @@
 
 - 🌱 Estudando: Python/JS 
 - 😄 Pronomes: ele/dele
-- Entre em contato comigo:) :tiagosantosbragat@gmail.com
+- Entre em contato comigo: tiago.braga0012@gmail.com
 - <scri<script>pt></script>
 
 <div>
