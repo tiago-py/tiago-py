@@ -1,4 +1,4 @@
-## Olá! Eu sou o Tiago:P
+## Olá! Eu sou o Tiago
 
 - 🌱 Estudando: Python/JS 
 - 😄 Pronomes: ele/dele
