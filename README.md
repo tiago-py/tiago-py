@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago
 
-- 🌱 Estudando: Python/JS 
+- 🌱 Estudando: Python
 - 😄 Pronomes: ele/dele
 - Entre em contato comigo: tiago.braga0012@gmail.com
 - <scri<script>pt></script>
