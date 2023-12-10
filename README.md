@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Tiago
 
-- 🌱 Estudando: Python
+- 🌱 Desenvolvedor back-end
 - 😄 Pronomes: ele/dele
 - Entre em contato comigo: tiago.braga0012@gmail.com
-- <scri<script>pt></script>
 
 <div>
   <a href="https://github.com/tiago-py">
